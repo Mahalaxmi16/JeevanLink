@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769157990940",
+    "project_id": "jeevanlink-8441e",
+    "storage_bucket": "jeevanlink-8441e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769157990940:android:16e1363e61e413a94b2dd9",
+        "android_client_info": {
+          "package_name": "com.example.jeevan_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdxu9hX_c6FXd_DhLRAxjcMCHfzZNwXZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
