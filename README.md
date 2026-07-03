@@ -116,7 +116,7 @@ FIREBASE_API_KEY=your_key_here
 
 ▶️ How to Run
 
-git clone https://github.com/SaniyaAfzali/Jeevanlink
+git clone https://github.com/Mahalaxmi16/JeevanLink
 cd jeevanlink
 pip install -r requirements.txt
 python app.py
@@ -150,7 +150,7 @@ Published in International Scientific Journal of Engineering Research (2026)
 
 👩‍💻 Author
 
-Saniya Afzali
+Mahalaxmi Aourneni
 AI/ML Student | Developer
 
 
